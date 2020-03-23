@@ -21,15 +21,17 @@ h1 {
     font-size: 70px;
     line-height: 1;
     margin-bottom: 0;
+    color: rgb(7, 78, 7);
 }
 
 #countdown {
     margin: 0;
     font-size: 20px;
+    color: rgb(7, 78, 7);
 }
 
 .score {
-    background:green;
+    background-image: url(../images/bambooButton.jpg);
     padding: 0 48px;
     line-height: 1;
     border-radius: 16px;
@@ -83,7 +85,7 @@ button{
     font-size: 35px;
     height: 60px;
     color: white;
-    background-color: green;
+    background-image: url(../images/bambooButton.jpg);
     border-radius: 10px;
     margin-left: 20px;
     margin-top: 90px;
@@ -96,7 +98,7 @@ button{
         display: none;
     }
     .score {
-    background:green;
+    background-image: url(../images/bambooButton.jpg);
     padding: 0 12px;
     line-height: 1;
     border-radius: 16px;
@@ -125,7 +127,7 @@ button{
         font-size: 15px;
         height: 40px;
         color: white;
-        background-color: green;
+        background-image: url(../images/bambooButton.jpg);
         border-radius: 10px;
         margin-left: 10px;
         margin-top: 10px;
